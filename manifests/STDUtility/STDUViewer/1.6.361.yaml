@@ -9,6 +9,7 @@ AppMoniker:
 Tags: document-viewer, PDF, CBR
 Description: Compact document viewer
 Homepage: http://www.stdutility.com/stduviewer.html
+Silent: /q
 Installers:
   - Arch: x64
     InstallerType: msi
